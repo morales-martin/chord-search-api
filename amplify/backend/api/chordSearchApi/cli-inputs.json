@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/chords": {
+      "name": "/chords",
+      "lambdaFunction": "chordSearchApi",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

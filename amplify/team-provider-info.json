@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chordsearchapi-dev-93757-authRole",
+      "UnauthRoleArn": "arn:aws:iam::959785698020:role/amplify-chordsearchapi-dev-93757-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::959785698020:role/amplify-chordsearchapi-dev-93757-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-chordsearchapi-dev-93757-deployment",
+      "UnauthRoleName": "amplify-chordsearchapi-dev-93757-unauthRole",
+      "StackName": "amplify-chordsearchapi-dev-93757",
+      "StackId": "arn:aws:cloudformation:us-east-2:959785698020:stack/amplify-chordsearchapi-dev-93757/4c656cb0-7257-11ed-b8d1-06f853e408aa",
+      "AmplifyAppId": "d2945rtz3ybfu4"
+    },
+    "categories": {
+      "function": {
+        "chordSearchApi": {
+          "deploymentBucketName": "amplify-chordsearchapi-dev-93757-deployment",
+          "s3Key": "amplify-builds/chordSearchApi-396972427266356a644e-build.zip"
+        }
+      },
+      "api": {
+        "chordSearchApi": {}
+      }
+    }
+  }
+}
